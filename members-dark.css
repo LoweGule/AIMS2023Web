@@ -1,0 +1,1537 @@
+.tsukubadai-white-2 {
+  height: 85px;
+  width: 255px;
+  position: relative;
+  object-fit: cover;
+}
+.line-separator {
+  height: 100px;
+  width: 1px;
+  position: relative;
+  border-right: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+}
+.white-logo-11 {
+  height: 150px;
+  width: 233px;
+  position: relative;
+  object-fit: cover;
+}
+.go-to-main-dark {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  cursor: pointer;
+}
+.events1,
+.home2 {
+  margin: 0;
+  height: 41px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.members3 {
+  color: var(--color-indigo-200);
+}
+.location2,
+.members3 {
+  margin: 0;
+  height: 41px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.switcher-night-1 {
+  height: 99px;
+  width: 167px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+}
+.homedarkmember {
+  align-self: stretch;
+  background-color: var(--color-gray-200);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-51xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-roboto);
+}
+.mentors {
+  color: var(--color-indigo-200);
+}
+.student-mentors {
+  margin: 0;
+  height: 115px;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.drnomua-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.associate-professor,
+.dr-nomura-nakao,
+.university-of-tsukuba {
+  margin: 0;
+}
+.dr-nomura-nakao-container {
+  height: 87px;
+  position: relative;
+  display: inline-block;
+}
+.frame-dansh-aisyah-marcell-edy {
+  height: 423px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.msmayu-2-icon {
+  width: 300px;
+  height: 300px;
+  position: relative;
+  object-fit: cover;
+}
+.international-office-officer,
+.mayu-komatsuzaki,
+.university-of-tsukuba1 {
+  margin: 0;
+}
+.mayu-komatsuzaki-internationa-container {
+  align-self: stretch;
+  height: 87px;
+  position: relative;
+  display: inline-block;
+}
+.frame-dansh-aisyah-marcell-edy1 {
+  width: 328px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+  max-width: 100%;
+}
+.frame-dr-nomura-ms-mayu {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.dr-nomura-frame,
+.student-mentors-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.dr-nomura-frame {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-94xl);
+}
+.student-mentors-frame {
+  width: 1066px;
+  flex-direction: row;
+  padding: 0 var(--padding-14xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  min-height: 821px;
+}
+.members4 {
+  color: var(--color-indigo-200);
+}
+.darren-1-icon,
+.malaysian-members {
+  align-self: stretch;
+  position: relative;
+}
+.malaysian-members {
+  margin: 0;
+  height: 115px;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.darren-1-icon {
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.daren-ong-wei,
+.malaysia {
+  margin: 0;
+}
+.daren-ong-wei-container {
+  width: 227px;
+  height: 58px;
+  position: relative;
+  display: inline-block;
+}
+.tashot-frame {
+  height: 401px;
+  width: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.kx-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.khor-kai-xuan,
+.malaysia1 {
+  margin: 0;
+}
+.khor-kai-xuan-container {
+  width: 227px;
+  height: 58px;
+  position: relative;
+  display: inline-block;
+}
+.rien-frame {
+  height: 394px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.k-x-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.daren-ong-wei-ren-frame,
+.student-mentors-frame1 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.daren-ong-wei-ren-frame {
+  width: 1015px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.student-mentors-frame1 {
+  width: 1125px;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-73xl);
+  min-height: 670px;
+  text-align: center;
+  font-size: var(--font-size-81xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-arial);
+}
+.dansh-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.malaysia2,
+.muhammad-danish-rozain {
+  margin: 0;
+}
+.muhammad-danish-rozain-container {
+  width: 227px;
+  height: 116px;
+  position: relative;
+  display: inline-block;
+}
+.dansh-parent {
+  height: 452px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.niesya-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.malaysia3,
+.nieysha-irfanis-binti {
+  margin: 0;
+}
+.nieysha-irfanis-binti-container {
+  width: 227px;
+  height: 87px;
+  position: relative;
+  display: inline-block;
+}
+.member-frame {
+  height: 423px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.frame-parent {
+  width: 999px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-roboto);
+}
+.aisyah-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.malaysia4,
+.nur-aisyah-syahirah {
+  margin: 0;
+}
+.nur-aisyah-syahirah-container {
+  width: 227px;
+  height: 116px;
+  position: relative;
+  display: inline-block;
+}
+.aisyah-1-parent {
+  height: 452px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.wani-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.malaysia5,
+.nur-syahirah-syazwani {
+  margin: 0;
+}
+.nur-syahirah-syazwani-container {
+  width: 227px;
+  height: 116px;
+  position: relative;
+  display: inline-block;
+}
+.wani-1-parent {
+  height: 452px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.frame-group {
+  width: 999px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-roboto);
+}
+.tashot-2-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.malaysia6,
+.nurul-natasha-binti {
+  margin: 0;
+}
+.nurul-natasha-binti-container {
+  height: 87px;
+  position: relative;
+  display: inline-block;
+}
+.ponlakrit-pattananupharp-frame {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.francis-sallena-dalanon-frame {
+  height: 427px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+}
+.yasmin-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.malaysia7,
+.nurul-yasmin-yuhanis {
+  margin: 0;
+}
+.nurul-yasmin-yuhanis-container {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.nurul-yasmin-yuhanis-binti-ahm-wrapper {
+  width: 230px;
+  height: 116px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-10xs);
+  box-sizing: border-box;
+}
+.aria-frame {
+  height: 456px;
+  width: 304px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.arianne-omapas-villareal-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.rien-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.malaysia8,
+.yeow-ri-en {
+  margin: 0;
+}
+.yeow-ri-en-container {
+  width: 227px;
+  height: 58px;
+  position: relative;
+  display: inline-block;
+}
+.nicolaus-avenito-frame,
+.rien-1-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rien-1-parent {
+  width: 300px;
+  height: 394px;
+  gap: var(--gap-17xl);
+}
+.nicolaus-avenito-frame {
+  width: 999px;
+  gap: var(--gap-99xl);
+  min-height: 1156px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-roboto);
+}
+.members5 {
+  color: var(--color-indigo-200);
+}
+.brunei-darrusalam-members-container {
+  margin: 0;
+  height: 86px;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.hakim-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.brunei-darrusalam,
+.haji-abdul-hakim {
+  margin: 0;
+}
+.haji-abdul-hakim-container {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.haji-abdul-hakim-bin-haji-osma-wrapper {
+  width: 270px;
+  height: 87px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.hakim-1-parent {
+  height: 423px;
+  width: 302px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-15xl);
+}
+.adli-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.brunei-darrusalam1,
+.muhammad-nur-adli {
+  margin: 0;
+}
+.muhammad-nur-adli-container {
+  width: 227px;
+  height: 116px;
+  position: relative;
+  display: inline-block;
+}
+.adli-1-parent {
+  height: 452px;
+  width: 302px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-15xl);
+}
+.frame-container {
+  width: 999px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.brunei-darrusalam-members-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-80xl);
+  min-height: 718px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-56xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-arial);
+}
+.members6 {
+  color: var(--color-indigo-200);
+}
+.indonesian-members {
+  margin: 0;
+  height: 115px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.indonesian-members-wrapper {
+  width: 1168px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-30xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-81xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-arial);
+}
+.marcell-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.gerardus-marcellino-amadeus,
+.indonesia {
+  margin: 0;
+}
+.gerardus-marcellino-amadeus-container {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.gerardus-marcellino-amadeus-pu-wrapper {
+  width: 271px;
+  height: 116px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.marcell-1-parent {
+  height: 455px;
+  width: 303px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.henry-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.gregorius-henry-wirawan,
+.indonesia1 {
+  margin: 0;
+}
+.gregorius-henry-wirawan-container {
+  width: 227px;
+  height: 87px;
+  position: relative;
+  display: inline-block;
+}
+.henry-1-parent {
+  height: 425px;
+  width: 302px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.frame-section {
+  width: 999px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  min-height: 535px;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-roboto);
+}
+.rapip-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.indonesia2,
+.muhammad-rafif-prahastya {
+  margin: 0;
+}
+.muhammad-rafif-prahastya-container {
+  width: 227px;
+  height: 87px;
+  position: relative;
+  display: inline-block;
+}
+.rapip-1-parent {
+  height: 424px;
+  width: 301px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.nico-2-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.indonesia3,
+.nicolaus-avenito {
+  margin: 0;
+}
+.nicolaus-avenito-indonesia-container {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.nicolaus-avenito-indonesia-wrapper {
+  width: 270px;
+  height: 58px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.muhammad-rafif-prahastya1 {
+  height: 395px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 37px;
+}
+.indonesian-members-label {
+  width: 1001px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  min-height: 534px;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-roboto);
+}
+.edy-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.indonesia4,
+.raedi-firstyawan-santosa {
+  margin: 0;
+}
+.raedi-firstyawan-santosa-container {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.raedi-firstyawan-santosa-indon-wrapper {
+  width: 271px;
+  height: 87px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.edy-1-parent {
+  height: 423px;
+  width: 303px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-14xl);
+}
+.sekar-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.indonesia5,
+.sekar-kaniraras {
+  margin: 0;
+}
+.sekar-kaniraras-indonesia-container {
+  width: 227px;
+  height: 58px;
+  position: relative;
+  display: inline-block;
+}
+.sekar-1-parent {
+  height: 394px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.frame-parent1 {
+  width: 999px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  min-height: 563px;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-roboto);
+}
+.members7 {
+  color: var(--color-indigo-200);
+}
+.aria-1-icon,
+.philippines-members1 {
+  align-self: stretch;
+  position: relative;
+}
+.philippines-members1 {
+  margin: 0;
+  height: 115px;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.aria-1-icon {
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.arianne-omapas-villareal,
+.philippines {
+  margin: 0;
+}
+.arianne-omapas-villareal-container {
+  width: 227px;
+  height: 87px;
+  position: relative;
+  display: inline-block;
+}
+.aria-frame-label {
+  height: 423px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.francis-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.francis-philip-sallena,
+.philippines1 {
+  margin: 0;
+}
+.francis-philip-sallena-container {
+  width: 227px;
+  height: 87px;
+  position: relative;
+  display: inline-block;
+}
+.aria-frame-label1 {
+  height: 423px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.francis-philip-frame,
+.philippines-members {
+  width: 999px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.philippines-members {
+  width: 1162px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-81xl);
+  min-height: 748px;
+  text-align: center;
+  font-size: var(--font-size-81xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-arial);
+}
+.kurt-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.kurt-william-dela,
+.philippines2 {
+  margin: 0;
+}
+.kurt-william-dela-container {
+  width: 227px;
+  height: 87px;
+  position: relative;
+  display: inline-block;
+}
+.kurt-1-parent {
+  height: 423px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.nicole-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.nicole-vasquez-bermudo,
+.philippines3 {
+  margin: 0;
+}
+.nicole-vasquez-bermudo-container {
+  width: 227px;
+  height: 87px;
+  position: relative;
+  display: inline-block;
+}
+.nicole-1-parent {
+  height: 423px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.frame-parent2 {
+  width: 999px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  min-height: 513px;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-roboto);
+}
+.members8 {
+  color: var(--color-indigo-200);
+}
+.thailand-members1 {
+  margin: 0;
+  height: 115px;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.polankrit-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.ponlakrit-pattananupharp,
+.thailand {
+  margin: 0;
+}
+.ponlakrit-pattananupharp-thail-container {
+  width: 227px;
+  height: 87px;
+  position: relative;
+  display: inline-block;
+}
+.thidarat-ch {
+  height: 423px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.thidarat-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.thailand1,
+.thidarat-chanpan {
+  margin: 0;
+}
+.thidarat-chanpan-thailand-container {
+  width: 227px;
+  height: 58px;
+  position: relative;
+  display: inline-block;
+}
+.thidarat-ch1 {
+  height: 394px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.polankrit-pattananupharp,
+.thailand-members {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.polankrit-pattananupharp {
+  width: 999px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.thailand-members {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-50xl);
+  min-height: 697px;
+  text-align: center;
+  font-size: var(--font-size-81xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-arial);
+}
+.members9 {
+  color: var(--color-indigo-200);
+}
+.sri-lanka-members-container {
+  margin: 0;
+  height: 115px;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.thailand-members2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-sm);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-81xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-arial);
+}
+.saeeda-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.fathima-raffah-saeeda,
+.sri-lanka {
+  margin: 0;
+}
+.fathima-raffah-saeeda-container {
+  width: 227px;
+  height: 87px;
+  position: relative;
+  display: inline-block;
+}
+.members-dark,
+.sri-lanka-members,
+.student-mentors-frame-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sri-lanka-members {
+  width: 300px;
+  height: 423px;
+  gap: var(--gap-17xl);
+}
+.members-dark,
+.student-mentors-frame-parent {
+  box-sizing: border-box;
+  text-align: center;
+  color: var(--color-whitesmoke);
+}
+.student-mentors-frame-parent {
+  padding: 0 var(--padding-xl);
+  gap: var(--gap-105xl);
+  max-width: 100%;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.members-dark {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-200);
+  overflow: hidden;
+  padding: var(--padding-7xs) 0 var(--padding-295xl);
+  gap: var(--gap-94xl);
+  letter-spacing: normal;
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-arial);
+}
+@media screen and (max-width: 1200px) {
+  .homedarkmember {
+    padding-left: var(--padding-16xl);
+    padding-right: var(--padding-16xl);
+    box-sizing: border-box;
+  }
+  .student-mentors-frame1 {
+    gap: var(--gap-27xl);
+  }
+  .philippines-members {
+    gap: var(--gap-31xl);
+  }
+  .student-mentors-frame-parent {
+    gap: var(--gap-43xl);
+  }
+}
+@media screen and (max-width: 1050px) {
+  .student-mentors {
+    font-size: var(--font-size-31xl);
+  }
+  .dr-nomura-frame {
+    gap: var(--gap-37xl);
+  }
+  .malaysian-members {
+    font-size: var(--font-size-31xl);
+  }
+  .nicolaus-avenito-frame {
+    gap: var(--gap-40xl);
+  }
+  .brunei-darrusalam-members-container {
+    font-size: var(--font-size-41xl);
+  }
+  .indonesian-members,
+  .philippines-members1,
+  .thailand-members1 {
+    font-size: var(--font-size-31xl);
+  }
+  .thailand-members {
+    gap: var(--gap-15xl);
+  }
+  .sri-lanka-members-container {
+    font-size: var(--font-size-31xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-dr-nomura-ms-mayu {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .dr-nomura-frame {
+    gap: var(--gap-9xl);
+  }
+  .k-x-frame {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .student-mentors-frame1 {
+    gap: var(--gap-4xl);
+  }
+  .arianne-omapas-villareal-frame,
+  .frame-group,
+  .frame-parent {
+    flex-wrap: wrap;
+  }
+  .nicolaus-avenito-frame {
+    gap: var(--gap-10xl);
+  }
+  .frame-container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .brunei-darrusalam-members-parent {
+    gap: var(--gap-30xl);
+  }
+  .frame-section {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .frame-parent1,
+  .indonesian-members-label {
+    flex-wrap: wrap;
+  }
+  .francis-philip-frame {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .philippines-members {
+    gap: var(--gap-6xl);
+  }
+  .frame-parent2 {
+    flex-wrap: wrap;
+  }
+  .polankrit-pattananupharp {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .thailand-members {
+    gap: var(--gap-mid);
+  }
+  .student-mentors-frame-parent {
+    gap: var(--gap-12xl);
+  }
+  .members-dark {
+    gap: var(--gap-37xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .student-mentors {
+    font-size: var(--font-size-11xl);
+  }
+  .dr-nomura-nakao-container {
+    font-size: var(--font-size-xl);
+  }
+  .frame-dansh-aisyah-marcell-edy {
+    gap: var(--gap-lg);
+  }
+  .mayu-komatsuzaki-internationa-container {
+    font-size: var(--font-size-xl);
+  }
+  .frame-dansh-aisyah-marcell-edy1 {
+    gap: var(--gap-lg);
+  }
+  .malaysian-members {
+    font-size: var(--font-size-11xl);
+  }
+  .daren-ong-wei-container,
+  .khor-kai-xuan-container {
+    font-size: var(--font-size-xl);
+  }
+  .rien-frame {
+    gap: var(--gap-lg);
+  }
+  .muhammad-danish-rozain-container {
+    font-size: var(--font-size-xl);
+  }
+  .dansh-parent {
+    gap: var(--gap-lg);
+  }
+  .nieysha-irfanis-binti-container {
+    font-size: var(--font-size-xl);
+  }
+  .member-frame {
+    gap: var(--gap-lg);
+  }
+  .nur-aisyah-syahirah-container {
+    font-size: var(--font-size-xl);
+  }
+  .aisyah-1-parent {
+    gap: var(--gap-lg);
+  }
+  .nur-syahirah-syazwani-container {
+    font-size: var(--font-size-xl);
+  }
+  .wani-1-parent {
+    gap: var(--gap-lg);
+  }
+  .nurul-natasha-binti-container {
+    font-size: var(--font-size-xl);
+  }
+  .ponlakrit-pattananupharp-frame {
+    gap: var(--gap-lg);
+  }
+  .nurul-yasmin-yuhanis-container {
+    font-size: var(--font-size-xl);
+  }
+  .aria-frame {
+    gap: var(--gap-lg);
+  }
+  .yeow-ri-en-container {
+    font-size: var(--font-size-xl);
+  }
+  .rien-1-parent {
+    gap: var(--gap-lg);
+  }
+  .brunei-darrusalam-members-container {
+    font-size: var(--font-size-26xl);
+  }
+  .haji-abdul-hakim-container {
+    font-size: var(--font-size-xl);
+  }
+  .hakim-1-parent {
+    gap: var(--gap-mid);
+  }
+  .muhammad-nur-adli-container {
+    font-size: var(--font-size-xl);
+  }
+  .adli-1-parent {
+    gap: var(--gap-mid);
+  }
+  .brunei-darrusalam-members-parent {
+    gap: var(--gap-6xl);
+  }
+  .indonesian-members {
+    font-size: var(--font-size-11xl);
+  }
+  .gerardus-marcellino-amadeus-container {
+    font-size: var(--font-size-xl);
+  }
+  .marcell-1-parent {
+    gap: var(--gap-lg);
+  }
+  .gregorius-henry-wirawan-container {
+    font-size: var(--font-size-xl);
+  }
+  .henry-1-parent {
+    gap: var(--gap-lg);
+  }
+  .muhammad-rafif-prahastya-container {
+    font-size: var(--font-size-xl);
+  }
+  .rapip-1-parent {
+    gap: var(--gap-lg);
+  }
+  .nicolaus-avenito-indonesia-container {
+    font-size: var(--font-size-xl);
+  }
+  .muhammad-rafif-prahastya1 {
+    gap: var(--gap-lg);
+  }
+  .raedi-firstyawan-santosa-container {
+    font-size: var(--font-size-xl);
+  }
+  .edy-1-parent {
+    gap: var(--gap-base);
+  }
+  .sekar-kaniraras-indonesia-container {
+    font-size: var(--font-size-xl);
+  }
+  .sekar-1-parent {
+    gap: var(--gap-lg);
+  }
+  .philippines-members1 {
+    font-size: var(--font-size-11xl);
+  }
+  .arianne-omapas-villareal-container {
+    font-size: var(--font-size-xl);
+  }
+  .aria-frame-label {
+    gap: var(--gap-lg);
+  }
+  .francis-philip-sallena-container {
+    font-size: var(--font-size-xl);
+  }
+  .aria-frame-label1 {
+    gap: var(--gap-lg);
+  }
+  .kurt-william-dela-container {
+    font-size: var(--font-size-xl);
+  }
+  .kurt-1-parent {
+    gap: var(--gap-lg);
+  }
+  .nicole-vasquez-bermudo-container {
+    font-size: var(--font-size-xl);
+  }
+  .nicole-1-parent {
+    gap: var(--gap-lg);
+  }
+  .thailand-members1 {
+    font-size: var(--font-size-11xl);
+  }
+  .ponlakrit-pattananupharp-thail-container {
+    font-size: var(--font-size-xl);
+  }
+  .thidarat-ch {
+    gap: var(--gap-lg);
+  }
+  .thidarat-chanpan-thailand-container {
+    font-size: var(--font-size-xl);
+  }
+  .thidarat-ch1 {
+    gap: var(--gap-lg);
+  }
+  .sri-lanka-members-container {
+    font-size: var(--font-size-11xl);
+  }
+  .fathima-raffah-saeeda-container {
+    font-size: var(--font-size-xl);
+  }
+  .sri-lanka-members {
+    gap: var(--gap-lg);
+  }
+  .student-mentors-frame-parent {
+    gap: var(--gap-mini);
+  }
+  .members-dark {
+    gap: var(--gap-9xl);
+  }
+}
